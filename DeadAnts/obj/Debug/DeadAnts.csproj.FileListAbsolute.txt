@@ -1,0 +1,13 @@
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\obj\Debug\DeadAnts.csprojResolveAssemblyReference.cache
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\obj\Debug\DeadAnts.csproj.CoreCompileInputs.cache
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\DeadAnts.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\DeadAnts.pdb
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\obj\Debug\DeadAnts.dll
+C:\Users\sam.chong62\source\repos\DeadAnts\DeadAnts\obj\Debug\DeadAnts.pdb
