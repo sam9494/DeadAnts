@@ -11,12 +11,14 @@ namespace DeadAnts
     {
         public static int CountDead(string antsString)
         {
-            int countDead = 0;
+           // int countDead = 0;
+           int[] countDead = {0, 0, 0};
             if (String.IsNullOrEmpty(antsString))
             {
                 return 0;
             }
             var splitDeadAnts = Regex.Split(antsString, "ant");
+            
             foreach (var i in splitDeadAnts)
             {
                 if (i.Contains("a"))
